@@ -1,0 +1,20 @@
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.frmCalc.resources
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Myo Myint Kyaw\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.frmCalc.resources
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Visual Studio .NET 2017\Visual C# .NET\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
